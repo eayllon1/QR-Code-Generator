@@ -4,6 +4,8 @@
 
 Generates a QR code for both React (web) and React Native.
 
+![Screen Shot](ScreenShot.png)
+
 ## 2 | Getting Started
 
 ### 2.1 Installing
