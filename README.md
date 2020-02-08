@@ -1,8 +1,21 @@
+---
+author: Edson Ayllon
+category: functionality
+tags:
+- React
+- QR Code
+- Javascript
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Modular 8-2019
+
 # QR Code Generator
 
-## 1 | Description
-
 Generates a QR code for both React (web) and React Native.
+
+## 1 | Preview
 
 ![Screen Shot](ScreenShot.png)
 
